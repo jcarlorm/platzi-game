@@ -6,6 +6,11 @@ body {
     height: 100vh;
 }
 
+img
+{
+    max-width: 35%;
+}
+
 .gameboard {
     height: 55vh;
     border-radius: 50%;
